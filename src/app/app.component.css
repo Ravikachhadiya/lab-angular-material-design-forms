@@ -1,0 +1,20 @@
+footer {
+  position: absolute;
+  bottom: 0px;
+  font-size: 1em;
+  padding: 15px 10px;
+  color: black;
+  width: 100%;
+}
+
+body{
+    background-image: url("../assets/learn.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+mat-card {
+  width: 20%;
+}
